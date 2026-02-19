@@ -4,7 +4,7 @@ description: Map non-linear career options and evaluate lateral moves using Sher
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3534
+  version: 1.0.3535
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - career-jungle-gym-mapping
