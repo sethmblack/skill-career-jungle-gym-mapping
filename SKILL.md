@@ -3,8 +3,9 @@ name: career-jungle-gym-mapping
 description: Map non-linear career options and evaluate lateral moves using Sheryl Sandberg's jungle gym framework, replacing the outdated ladder metaphor with strategic exploration.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3534
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - career-jungle-gym-mapping
 - transformation
